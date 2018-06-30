@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/AhmedNazih/Desktop/Semester10/Scala Task/Solving/src/main/scala/Web.scala:6:25: Cannot find an implicit ExecutionContext. You might pass[0m
+[0m[[0m[31merror[0m] [0m[0man (implicit ec: ExecutionContext) parameter to your method[0m
+[0m[[0m[31merror[0m] [0m[0mor import scala.concurrent.ExecutionContext.Implicits.global.[0m
+[0m[[0m[31merror[0m] [0m[0m    Server.listen(8888) { req =>[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
