@@ -6,25 +6,24 @@ scalaVersion := "2.12.6"
 
 libraryDependencies += "com.criteo.lolhttp" %% "lolhtml" % "10.0.0"
 
+libraryDependencies ++= {
+  val liftVersion = "3.2.0"
+  Seq(
+    "net.liftweb"       %% "lift-webkit" % liftVersion % "compile",
+    "ch.qos.logback" % "logback-classic" % "1.2.3"
+  )
+}
+
+libraryDependencies += "org.scala-lang.modules" %% "scala-parser-combinators" % "1.0.4"
+
+libraryDependencies += "com.typesafe.play" %% "play-json" % "2.6.7"
+
+//resolvers += Resolver.sonatypeRepo("releases")
+//libraryDependencies += "org.spire-math" %% "jawn-parser" % "0.12.1"
+//
+//libraryDependencies += "org.spire-math" %% "jawn-ast" % "0.12.1"
+
 //libraryDependencies += "org.scalatest" %% "scalatest" % "3.0.1" % "test"
-//
-//
-//libraryDependencies +=  "org.scalaj" %% "scalaj-http" % "2.4.0"
 
 
 
-//val http4sVersion = "0.19.0-SNAPSHOT"
-
-// Only necessary for SNAPSHOT releases
-//resolvers += Resolver.sonatypeRepo("snapshots")
-//
-//libraryDependencies ++= Seq(
-//  "org.http4s" %% "http4s-dsl" % http4sVersion,
-//  "org.http4s" %% "http4s-blaze-server" % http4sVersion,
-//  "org.http4s" %% "http4s-blaze-client" % http4sVersion
-//)
-//
-////libraryDependencies ++= Seq(
-////  "org.http4s" %% "http4s-dsl",
-////)
-//scalacOptions ++= Seq("-Ypartial-unification")
