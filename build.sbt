@@ -18,12 +18,18 @@ libraryDependencies += "org.scala-lang.modules" %% "scala-parser-combinators" % 
 
 libraryDependencies += "com.typesafe.play" %% "play-json" % "2.6.7"
 
-//resolvers += Resolver.sonatypeRepo("releases")
-//libraryDependencies += "org.spire-math" %% "jawn-parser" % "0.12.1"
-//
-//libraryDependencies += "org.spire-math" %% "jawn-ast" % "0.12.1"
 
-//libraryDependencies += "org.scalatest" %% "scalatest" % "3.0.1" % "test"
+val circeVersion = "0.9.3"
+
+libraryDependencies ++= Seq(
+  "io.circe" %% "circe-core",
+  "io.circe" %% "circe-generic",
+  "io.circe" %% "circe-parser"
+).map(_ % circeVersion)
+
+
+
+libraryDependencies += "org.scalatest" %% "scalatest" % "3.0.1" % "test"
 
 
 

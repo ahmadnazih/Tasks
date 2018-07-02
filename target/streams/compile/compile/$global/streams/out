@@ -1,2 +1,9 @@
-[0m[[0m[33mwarn[0m] [0m[0mthere was one deprecation warning (since 2.11.0); re-run with -deprecation for details[0m
-[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/AhmedNazih/Desktop/Semester10/Scala Task/Solving/src/main/scala/Web.scala:30:35: not found: type Json[0m
+[0m[[0m[31merror[0m] [0m[0m        val json = request.readAs[Json].map { jsonBody =>[0m
+[0m[[0m[31merror[0m] [0m[0m                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/AhmedNazih/Desktop/Semester10/Scala Task/Solving/src/main/scala/Web.scala:29:51: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Unit[0m
+[0m[[0m[31merror[0m] [0m[0m required: cats.effect.IO[lol.http.Response][0m
+[0m[[0m[31merror[0m] [0m[0m      case request @ POST at url"/api/restaurant" =>[0m
+[0m[[0m[31merror[0m] [0m[0m                                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

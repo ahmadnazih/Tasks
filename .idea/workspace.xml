@@ -5,10 +5,32 @@
       <change beforePath="$PROJECT_DIR$/.idea/modules/solving.iml" afterPath="$PROJECT_DIR$/.idea/modules/solving.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/build.sbt" afterPath="$PROJECT_DIR$/build.sbt" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7004f13c24fe43b057bd$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7004f13c24fe43b057bd.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7004f13c24fe43b057bd.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$79ec88349782cab7df38$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$79ec88349782cab7df38.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$79ec88349782cab7df38.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$84471351516f8dd5287b$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$84471351516f8dd5287b.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$84471351516f8dd5287b.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$87ef14c63746fb854903$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$87ef14c63746fb854903.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$87ef14c63746fb854903.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$afacb90f091fbaa0014e$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$afacb90f091fbaa0014e.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$afacb90f091fbaa0014e.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b1a3989cd890c9af9201$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b1a3989cd890c9af9201.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b1a3989cd890c9af9201.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e010a89f81b3fe72701d$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e010a89f81b3fe72701d.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e010a89f81b3fe72701d.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/Web.scala" afterPath="$PROJECT_DIR$/src/main/scala/Web.scala" />
       <change beforePath="$PROJECT_DIR$/target/.history" afterPath="$PROJECT_DIR$/target/.history" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/Web$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/Web.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/Web$.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Web$.class" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/solving$sources/0.1/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/solving$sources/0.1/resolved.xml.properties" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/solving$sources/0.1/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/solving$sources/0.1/resolved.xml.xml" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/solving_2.12/0.1/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/solving_2.12/0.1/resolved.xml.properties" />
@@ -35,28 +57,19 @@
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-solving_2.12-scala-tool.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-solving_2.12-scala-tool.xml" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-solving_2.12-test-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-solving_2.12-test-internal.xml" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-solving_2.12-test.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-solving_2.12-test.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/solving_2.12-0.1.jar" afterPath="$PROJECT_DIR$/target/scala-2.12/solving_2.12-0.1.jar" />
       <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" />
       <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" />
       <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
       <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" />
       <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
       <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" afterPath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" />
       <change beforePath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" />
       <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" />
       <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" />
       <change beforePath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/$global/streams/export" />
       <change beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/mainClass/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/compile/mainClass/$global/streams/out" />
       <change beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/run/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/compile/run/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/dependencyClasspathAsJars/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/runtime/dependencyClasspathAsJars/$global/streams/export" />
       <change beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/fullClasspathAsJars/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/runtime/fullClasspathAsJars/$global/streams/export" />
       <change beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" />
       <change beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" />
       <change beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" />
@@ -79,11 +92,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="build.sbt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="build.sbt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.sbt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="67" lean-forward="false" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="67" />
+            <state relative-caret-position="60">
+              <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -99,11 +112,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Web.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Web.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/Web.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+            <state relative-caret-position="-208">
+              <caret line="37" column="35" lean-forward="false" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
               <folding>
                 <element signature="e#1#18#0" expanded="true" />
               </folding>
@@ -114,8 +127,8 @@
       <file leaf-file-name="sample-restaurant-data.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sample-restaurant-data.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="36" />
+            <state relative-caret-position="30">
+              <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="22" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -135,8 +148,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/scala/Assignment.scala" />
-        <option value="$PROJECT_DIR$/build.sbt" />
         <option value="$PROJECT_DIR$/src/main/scala/Web.scala" />
+        <option value="$PROJECT_DIR$/build.sbt" />
       </list>
     </option>
   </component>
@@ -341,7 +354,7 @@
     </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1530408976384" />
+    <option name="lastUpdateTimestamp" value="1530489903692" />
     <option name="availableProjects">
       <map>
         <entry>
@@ -466,14 +479,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Assignment.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1530">
-          <caret line="102" column="82" lean-forward="false" selection-start-line="102" selection-start-column="82" selection-end-line="102" selection-end-column="82" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.ivy2/cache/net.liftweb/lift-json_2.12/srcs/lift-json_2.12-3.2.0-sources.jar!/net/liftweb/json/Formats.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-142">
@@ -482,29 +487,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.sbt">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Assignment.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="67" lean-forward="false" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="67" />
+        <state relative-caret-position="1530">
+          <caret line="102" column="82" lean-forward="false" selection-start-line="102" selection-start-column="82" selection-end-line="102" selection-end-column="82" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sample-restaurant-data.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="36" />
+        <state relative-caret-position="30">
+          <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="22" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/Web.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        <state relative-caret-position="-208">
+          <caret line="37" column="35" lean-forward="false" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
           <folding>
             <element signature="e#1#18#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
